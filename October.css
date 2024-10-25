@@ -1,0 +1,11 @@
+@charset "utf-8";
+	.October
+{
+	background-image : url(October.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 421px;
+	top : 897px;
+	width : 257px;
+	height : 256px;
+}

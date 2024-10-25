@@ -1,0 +1,11 @@
+@charset "utf-8";
+	.ZakwanguLogo
+{
+	background-image : url(ZakwanguLogo.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 328px;
+	top : 1526px;
+	width : 64px;
+	height : 61px;
+}

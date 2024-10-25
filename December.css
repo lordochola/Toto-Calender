@@ -1,0 +1,11 @@
+@charset "utf-8";
+	.December
+{
+	background-image : url(December.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 422px;
+	top : 1214px;
+	width : 256px;
+	height : 256px;
+}
